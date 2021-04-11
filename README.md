@@ -1,2 +1,2 @@
-# ConvexHall
- ConvexHall algorithm visualisation in python
+# ConvexHull
+ ConvexHull algorithm visualisation in python
